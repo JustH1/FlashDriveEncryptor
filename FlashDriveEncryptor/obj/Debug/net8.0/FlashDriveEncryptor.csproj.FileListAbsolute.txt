@@ -1,0 +1,14 @@
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\FlashDriveEncryptor.exe
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\FlashDriveEncryptor.deps.json
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\FlashDriveEncryptor.runtimeconfig.json
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\FlashDriveEncryptor.dll
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\FlashDriveEncryptor.pdb
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.AssemblyInfoInputs.cache
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.AssemblyInfo.cs
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.csproj.CoreCompileInputs.cache
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.dll
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\refint\FlashDriveEncryptor.dll
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.pdb
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.genruntimeconfig.cache
+D:\Prog VS com\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\ref\FlashDriveEncryptor.dll
