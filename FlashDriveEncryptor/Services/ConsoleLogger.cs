@@ -74,6 +74,7 @@
         /// <param name="logLevel"></param>
         /// <param name="message"></param>
         /// <returns></returns>
+        
         private string BuildMessage(DateTime dateTimeNow, string logLevel, string message)
         {
             return $"[{dateTimeNow}] [{logLevel}]: {message}";

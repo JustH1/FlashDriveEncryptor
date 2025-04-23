@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Prog VS com\\FlashDriveEncryptor\\",
+  "WorkspaceRootPath": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\prog vs com\\flashdriveencryptor\\flashdriveencryptor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\visual\\myprog\\flashdriverencryptor\\flashdriveencryptor\\flashdriveencryptor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\prog vs com\\flashdriveencryptor\\flashdriveencryptor\\services\\fileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\services\\fileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\visual\\myprog\\flashdriverencryptor\\flashdriveencryptor\\flashdriveencryptor\\services\\jsonconfigurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\services\\jsonconfigurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\prog vs com\\flashdriveencryptor\\flashdriveencryptor\\fileproviderconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\fileproviderconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\visual\\myprog\\flashdriverencryptor\\flashdriveencryptor\\flashdriveencryptor\\appconfiguration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\appconfiguration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\prog vs com\\flashdriveencryptor\\flashdriveencryptor\\services\\ifileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\services\\ifileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|d:\\visual\\myprog\\flashdriverencryptor\\flashdriveencryptor\\flashdriveencryptor\\services\\iconfigurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1522996-68E4-477E-B2CB-92EC80A81385}|FlashDriveEncryptor\\FlashDriveEncryptor.csproj|solutionrelative:flashdriveencryptor\\services\\iconfigurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Program.cs",
-              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Program.cs",
-              "ToolTip": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Program.cs",
-              "RelativeToolTip": "FlashDriveEncryptor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:21:02.583Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileProvider.cs",
-              "DocumentMoniker": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\FileProvider.cs",
-              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Services\\FileProvider.cs",
-              "ToolTip": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\FileProvider.cs",
-              "RelativeToolTip": "FlashDriveEncryptor\\Services\\FileProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:09:08.619Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FileProviderConfig.json",
-              "DocumentMoniker": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\FileProviderConfig.json",
-              "RelativeDocumentMoniker": "FlashDriveEncryptor\\FileProviderConfig.json",
-              "ToolTip": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\FileProviderConfig.json",
-              "RelativeToolTip": "FlashDriveEncryptor\\FileProviderConfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Title": "appConfiguration.json",
+              "DocumentMoniker": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\appConfiguration.json",
+              "RelativeDocumentMoniker": "FlashDriveEncryptor\\appConfiguration.json",
+              "ToolTip": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\appConfiguration.json",
+              "RelativeToolTip": "FlashDriveEncryptor\\appConfiguration.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-11T19:08:21.144Z",
+              "WhenOpened": "2025-04-23T10:33:22.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IFileProvider.cs",
-              "DocumentMoniker": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\IFileProvider.cs",
-              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Services\\IFileProvider.cs",
-              "ToolTip": "D:\\Prog VS com\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\IFileProvider.cs",
-              "RelativeToolTip": "FlashDriveEncryptor\\Services\\IFileProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "IConfigurationProvider.cs",
+              "DocumentMoniker": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\IConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Services\\IConfigurationProvider.cs",
+              "ToolTip": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\IConfigurationProvider.cs",
+              "RelativeToolTip": "FlashDriveEncryptor\\Services\\IConfigurationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:02:34.18Z",
+              "WhenOpened": "2025-04-22T09:40:42.623Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonConfigurationProvider.cs",
+              "DocumentMoniker": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\JsonConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Services\\JsonConfigurationProvider.cs",
+              "ToolTip": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Services\\JsonConfigurationProvider.cs",
+              "RelativeToolTip": "FlashDriveEncryptor\\Services\\JsonConfigurationProvider.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAtwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:39:25.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Program.cs",
+              "RelativeDocumentMoniker": "FlashDriveEncryptor\\Program.cs",
+              "ToolTip": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\Program.cs*",
+              "RelativeToolTip": "FlashDriveEncryptor\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:57:37.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

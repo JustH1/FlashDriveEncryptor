@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlashDriveEncryptor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac96c5ccb4ef11a3a57731a43d80974161e8dfdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlashDriveEncryptor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlashDriveEncryptor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
