@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FlashDriveEncryptor.Services
 {
-    internal class IConfigurationProvider
+    internal interface IConfigurationProvider
     {
+        public object? this[string key] { get; }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FlashDriveEncryptor.Services
 {
-    internal class IFileProvider
+    internal interface IFileProvider
     {
+        public IEnumerable<string> GetFilesEncryption();
     }
 }

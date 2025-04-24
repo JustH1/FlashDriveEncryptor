@@ -8,10 +8,15 @@ namespace FlashDriveEncryptor.Services
         private readonly ILogger _logger;
         private readonly string _path;
 
-        public FileProvider(ILogger logger)
+        public FileProvider(ILogger logger, IConfigurationProvider configurationProvider)
         {
             _logger = logger;
-            _path = "D:\\Info";
+            _path = configurationProvider["targetEncryptionDirectory"]?.ToString();
+
+            if (string.IsNullOrEmpty(_path))
+            {
+                throw new InvalidOperationException("Configuration value for 'targetEncryptionDirectory' is missing or empty.");
+            }
         }
         public IEnumerable<string> GetFilesEncryption()
         {
