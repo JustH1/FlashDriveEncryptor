@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Mc7Nh11k0lg=",
+  "dgSpecHash": "ibyMjkmxKRA=",
   "success": true,
   "projectFilePath": "D:\\Visual\\MyProg\\FlashDriverEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor\\FlashDriveEncryptor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JustHK\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\JustHK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

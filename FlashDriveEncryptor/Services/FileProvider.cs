@@ -1,5 +1,4 @@
 ﻿using System.IO;
-using System.Reflection.Metadata.Ecma335;
 
 namespace FlashDriveEncryptor.Services
 {
@@ -18,7 +17,7 @@ namespace FlashDriveEncryptor.Services
                 throw new InvalidOperationException("Configuration value for 'targetEncryptionDirectory' is missing or empty.");
             }
         }
-        public IEnumerable<string> GetFilesEncryption()
+        public IEnumerable<string> GetFileEncryptionPaths()
         {
             return GetAllAccessibleFiles(_path);
         }

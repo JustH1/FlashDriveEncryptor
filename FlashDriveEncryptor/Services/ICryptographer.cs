@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace FlashDriveEncryptor.Services
 {
-    internal class ICryptographer
+    internal interface ICryptographer
     {
+        public void EncryptFiles(IEnumerable<string> filePaths, string password);
+        public void DecryptFiles(IEnumerable<string> filePaths, string password);
     }
 }

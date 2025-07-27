@@ -43,3 +43,7 @@ D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\ob
 D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.genruntimeconfig.cache
 D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\ref\FlashDriveEncryptor.dll
 D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\appConfiguration.json
+D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDriveEncryptor.csproj.AssemblyReference.cache
+D:\Visual\MyProg\FlashDriverEncryptor\FlashDriveEncryptor\FlashDriveEncryptor\obj\Debug\net8.0\FlashDri.B4FFCE32.Up2Date

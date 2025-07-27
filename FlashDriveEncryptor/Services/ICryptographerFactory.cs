@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FlashDriveEncryptor.Services
 {
-    internal class IConsoleView
+    interface ICryptographerFactory
     {
+        public ICryptographer CreateCryptographer(string algorithm = "AES");
     }
 }

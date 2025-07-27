@@ -32,7 +32,10 @@ namespace FlashDriveEncryptor.Services
                 return value;
             }
         }
-
+        public Dictionary<string, object>? GetFullConfiguration()
+        {
+            return _configurationValues;
+        }
         private string GetConfigFilePath()
         {
             try
@@ -63,13 +66,26 @@ namespace FlashDriveEncryptor.Services
                     ReadCommentHandling = JsonCommentHandling.Skip
                 };
 
-                configurationValues = JsonSerializer.Deserialize<Dictionary<string, object>>(jsonContent, options);
+                Dictionary<string, JsonElement> jsonConfigurationValues = JsonSerializer.Deserialize<Dictionary<string, JsonElement>>(jsonContent, options);
 
-                if (configurationValues == null || configurationValues?.Count == 0)
+                if (jsonConfigurationValues == null || jsonConfigurationValues?.Count == 0)
                 {
                     throw new Exception("Couldn't get configuration values from the appSettings.json file.");
                 }
 
+                configurationValues = new Dictionary<string, object>();
+
+                foreach (KeyValuePair<string, JsonElement> jsonConfigurationValue in jsonConfigurationValues)
+                {
+                    configurationValues[jsonConfigurationValue.Key] = jsonConfigurationValue.Value.ValueKind switch
+                    {
+                        JsonValueKind.Number => jsonConfigurationValue.Value.GetInt32(),
+                        JsonValueKind.String => jsonConfigurationValue.Value.ToString(),
+                        JsonValueKind.True => true,
+                        JsonValueKind.False => false,
+                        _ => jsonConfigurationValue.Value.ToString()
+                    };
+                }
             }
             catch (JsonException ex)
             {

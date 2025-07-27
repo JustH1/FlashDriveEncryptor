@@ -1,3 +1,9 @@
 {
-  "ewf": "wef"
+  "targetEncryptionDirectory": "D:\\Downloads",
+  "saltLength": 16,
+  "iteration": 10000,
+  "keySize": 256,
+  "readBufferSize": 4096,
+  "fileSignature": "ENCv1",
+  "salt": "etfnsrutlfceduy4"
 }

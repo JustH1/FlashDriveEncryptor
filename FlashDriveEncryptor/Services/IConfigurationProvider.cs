@@ -9,5 +9,6 @@ namespace FlashDriveEncryptor.Services
     internal interface IConfigurationProvider
     {
         public object? this[string key] { get; }
+        public Dictionary<string, object>? GetFullConfiguration();
     }
 }
