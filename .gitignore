@@ -1,0 +1,39 @@
+## Игнорировать файлы сборки и отладки
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.cache
+*.ilk
+*.nupkg
+
+## Игнорировать файлы Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.swp
+
+## Игнорировать резервные копии и временные файлы
+*.bak
+*.tmp
+*~
+~$*
+
+## Игнорировать пользовательские настройки Rider/ReSharper
+.idea/
+*.DotSettings
+
+## Игнорировать файлы пакетов NuGet
+packages/
+[Nn]u[Gg]et.[Pp]ackages
+*.nupkg
+
+## Игнорировать результаты тестов
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.log
