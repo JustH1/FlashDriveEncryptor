@@ -1,4 +1,5 @@
-#FlashDriveEncryptor
+# FlashDriveEncryptor
+
 FDE is a console program for encrypting and decrypting files on USB drives or other directories specified in the configuration.
 
 Available сommands:
